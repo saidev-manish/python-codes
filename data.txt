@@ -1,0 +1,3 @@
+This is write mode
+This is append mode
+New content added

@@ -28,14 +28,14 @@ while True:
 
     # 3. Addition
     elif choice == 3:
-        a = float(input("Enter first number: "))
-        b = float(input("Enter second number: "))
+        a = float(input("Enter a number: "))
+        b = float(input("Enter b number: "))
         print("Addition =", a + b)
 
     # 4. Subtraction
     elif choice == 4:
-        a = float(input("Enter first number: "))
-        b = float(input("Enter second number: "))
+        a = float(input("Enter a number: "))
+        b = float(input("Enter b number: "))
         print("Subtraction =", a - b)
 
     # 5. Division and Modulo
@@ -59,7 +59,7 @@ while True:
 
     # 7. Exit
     elif choice == 7:
-        print("Exiting...")
+        print("Exit")
         break
 
     else:
